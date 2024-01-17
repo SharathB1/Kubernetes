@@ -1,2 +1,2 @@
 # Kubernetes
-Kubernetes Repository Sample code
+Kubernetes Repository Sample code of various components.
